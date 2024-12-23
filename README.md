@@ -75,12 +75,13 @@ npm start
 For React Native, use the following to start the app on an emulator:
 ```
 Contributing
-Fork the repository.
+
+```Fork the repository.
 Create a new branch (git checkout -b feature/your-feature).
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/your-feature).
 Open a pull request.
-
+```
 License
 Distributed under the MIT License. See LICENSE for more information.
 
