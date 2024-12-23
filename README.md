@@ -54,7 +54,7 @@ The **Meal Planner** mobile application helps users easily plan their meals, cre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/meal-planner-app.git
+   git clone https://github.com/ysfhmtky/Meal_Planner.git
    ```
 Navigate to the project directory:
 ```
